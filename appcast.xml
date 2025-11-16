@@ -12,12 +12,12 @@
     <item>
       <title>Version 0.1.6</title>
       <sparkle:releaseNotesLink>https://raw.githubusercontent.com/winddpan/WorkspaceMind/refs/heads/main/README.md</sparkle:releaseNotesLink>
-      <pubDate>Sun, 16 Nov 2025 21:52:14 +0800</pubDate>
+      <pubDate>Sun, 16 Nov 2025 22:04:52 +0800</pubDate>
       <enclosure
         url="https://github.com/winddpan/WorkspaceMind/releases/download/0.1.6/workspace-mind-0.1.6.zip"
         sparkle:version="0.1.6"
         sparkle:shortVersionString="0.1.6"
-        sparkle:edSignature="7HAToMVtJGZV3ZUMmzPTfunckmOs8Ce91AsbeVKOJPleuMtsjXxr15GfH0f2I9qP1nc68jRv46z6fntAaSDYAA==" length="2525521"
+        sparkle:edSignature="yi+L0uaMFXrlnqQfKKEe1Im4B5TizGY2ii/LBtrGGW3E2sIeUpVJKX3YJ8ahFOqdTO5jRjSRfhJaWAacPPyZCA==" length="2525541"
         type="application/octet-stream" />
     </item>
 
