@@ -1,3 +1,9 @@
+### 1.6.3
+- Added more style and color customization options for Liquid Glass
+- Added support for repositioning the Space Indicator
+- Fixed an issue where the process failed to exit after closing the last window
+- Fixed other known issues
+
 ## 1.6.2
 - Added a one-click option to bring all floating windows to the front.
 - Added a Liquid Glass background effect option for workspaces.
